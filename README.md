@@ -4,7 +4,7 @@ A Go client for the [Chef Supermarket API](https://docs.chef.io/supermarket/supe
 
 ## Install
 
-    go get github.com/tas50/cinc-supermarket-api
+    go get github.com/cinc-project/cinc-supermarket-api
 
 ## Usage
 

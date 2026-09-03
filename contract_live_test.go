@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	supermarket "github.com/tas50/cinc-supermarket-api"
+	supermarket "github.com/cinc-project/cinc-supermarket-api"
 )
 
 func liveClient(t *testing.T) (*supermarket.Client, context.Context, context.CancelFunc) {
