@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	supermarket "github.com/tas50/cinc-supermarket-api"
+	supermarket "github.com/cinc-project/cinc-supermarket-api"
 )
 
 func readGolden[T any](t *testing.T, name string) T {

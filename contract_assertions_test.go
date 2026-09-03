@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	supermarket "github.com/tas50/cinc-supermarket-api"
+	supermarket "github.com/cinc-project/cinc-supermarket-api"
 )
 
 func assertCookbookPage(t *testing.T, p supermarket.Page[supermarket.CookbookSummary], label string) {
